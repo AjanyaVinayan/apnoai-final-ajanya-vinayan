@@ -62,7 +62,7 @@ Prioritize profitable growth by strengthening high-margin category opportunities
 ## Files Included
 
 - `dashboard.png` — Power BI dashboard screenshot
-- `insights.pdf` — Executive insights and strategic recommendation
+- `insights-report.pdf` — Executive insights and strategic recommendation
 - `ApnoMart_Insight_Board.pbix` — Power BI project file
 - `README.md` — Project documentation
 
